@@ -12,7 +12,7 @@ This is a backend for Ace the Inteview!.
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-### Instration
+### Installation
 1. Clone this repository
 ```console
 $ git clone git@github.com:CarlSmoky/interview_server.git
