@@ -3,7 +3,7 @@
 This is a backend for Ace the Inteview!.
 
 - Please click here for the live website: [Live Demo: Ace the Interview!](https://acetheinterview.netlify.app/)
-- Check out backend code here: [Client repo](https://github.com/CarlSmoky/interview-client)
+- Check out client code here: [Client repo](https://github.com/CarlSmoky/interview_client)
 
 ### Tech Stacks
 <div>
@@ -30,4 +30,5 @@ $ npm run start
 ```
 
 
-For running this app's client, go to [client repo](https://github.com/CarlSmoky/interview-client)
+For running this app's client, go to [client repo](https://github.com/CarlSmoky/interview_client)
+
